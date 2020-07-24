@@ -1,0 +1,8 @@
+{
+  "name": "PayAttention",
+  "description": "Separates attention indicators from the general focus-stealing behavior",
+  "uuid": "PayAttention@alkahest.org",
+  "shell-version": [
+    "3.36"
+  ]
+}
