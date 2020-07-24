@@ -86,7 +86,7 @@ class PayAttentionExtension {
   }
 
   onRemoveWindow(win) {
-    this._newWindows.remove(win);
+    this._newWindows.delete(win);
     this._disconnectFrom(win);
   }
 
